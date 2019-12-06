@@ -1,0 +1,14 @@
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\comps\phKeyStore\src\phKeyStore.c
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\types\ph_Status.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\types\ph_NxpBuild.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\types\ph_TypeDefs.h
+.\stm32l431rct6\phkeystore.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phKeyStore.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phbalReg.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phhalHw_Rc663_Reg.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phhalHw_Rc663_Cmd.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\types\ph_RefDefs.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\comps\phKeyStore\src\phKeyStore_Int.h
+.\stm32l431rct6\phkeystore.o: ..\User\rc663\comps\phKeyStore\src\Rc663/phKeyStore_Rc663.h

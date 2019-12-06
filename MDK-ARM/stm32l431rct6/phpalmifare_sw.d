@@ -1,0 +1,17 @@
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\comps\phpalMifare\src\Sw\phpalMifare_Sw.c
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\types\ph_Status.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\types\ph_NxpBuild.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\types\ph_TypeDefs.h
+.\stm32l431rct6\phpalmifare_sw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phbalReg.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phhalHw_Rc663_Reg.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phhalHw_Rc663_Cmd.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phpalMifare.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phpalI14443p3a.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phpalI14443p4.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\types\ph_RefDefs.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\intfs\phTools.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\comps\phpalMifare\src\Sw\phpalMifare_Sw.h
+.\stm32l431rct6\phpalmifare_sw.o: ..\User\rc663\comps\phpalMifare\src\Sw\../phpalMifare_Int.h

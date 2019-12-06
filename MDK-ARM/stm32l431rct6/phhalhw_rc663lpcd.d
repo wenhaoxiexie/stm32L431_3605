@@ -1,0 +1,14 @@
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\comps\plLpcd\src\phhalHw_Rc663Lpcd.c
+.\stm32l431rct6\phhalhw_rc663lpcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\types\ph_Status.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\types\ph_NxpBuild.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\types\ph_TypeDefs.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phbalReg.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phhalHw_Rc663_Reg.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phhalHw_Rc663_Cmd.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phTools.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\comps\phhalHw\src\Rc663\phhalHw_Rc663_Int.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\comps\phhalHw\src\Rc663\phhalHw_Rc663_Config.h
+.\stm32l431rct6\phhalhw_rc663lpcd.o: ..\User\rc663\intfs\phhalHw_Rc663Lpcd.h

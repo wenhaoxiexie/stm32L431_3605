@@ -1,0 +1,15 @@
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\comps\phalMfc\src\phalMfc.c
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\types\ph_Status.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\types\ph_NxpBuild.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\types\ph_TypeDefs.h
+.\stm32l431rct6\phalmfc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phalMfc.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phbalReg.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phhalHw_Rc663_Reg.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phhalHw_Rc663_Cmd.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\intfs\phpalMifare.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\comps\phalMfc\src\phalMfc_Int.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\types\ph_RefDefs.h
+.\stm32l431rct6\phalmfc.o: ..\User\rc663\comps\phalMfc\src\Sw/phalMfc_Sw.h

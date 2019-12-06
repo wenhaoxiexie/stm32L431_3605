@@ -1,0 +1,14 @@
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw.c
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\types\ph_Status.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\types\ph_NxpBuild.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\types\ph_TypeDefs.h
+.\stm32l431rct6\phpali14443p4_sw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phbalReg.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phhalHw_Rc663_Reg.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phhalHw_Rc663_Cmd.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phhalHw.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\intfs\phpalI14443p4.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\types\ph_RefDefs.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw_Int.h
+.\stm32l431rct6\phpali14443p4_sw.o: ..\User\rc663\comps\phpalI14443p4\src\Sw\phpalI14443p4_Sw.h
